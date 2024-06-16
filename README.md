@@ -6,7 +6,7 @@
 
 1. Create an environment
 
-```bash
+```sh
 conda create -n interview python=3.10 -y
 
 
@@ -16,23 +16,19 @@ conda activate interview
 
 2. Activate the environment
 
-```bash
+```sh
 conda activate interview
 ```
 
-
 2. install requirements
 
-```bash
+```sh
 pip install -r requirements.txt
 ```
 
-
-
-
 ### GitHub commands
 
-```bash
+```sh
 1. git clone https://github.com/
 
 2. git add .
